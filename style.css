@@ -1,0 +1,18 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0 24px;
+}
+
+h1 {
+    color: #FB60A3;
+
+}
+
+h2 { background-color: #F679AF;
+ 
+
+}
