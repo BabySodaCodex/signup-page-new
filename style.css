@@ -16,3 +16,9 @@ h2 { background-color: #F679AF;
  
 
 }
+.box {
+  margin: 32px 0;
+  border: 3px dashed darkgreen;
+  padding: 60px;
+  margin: 40px;
+}
