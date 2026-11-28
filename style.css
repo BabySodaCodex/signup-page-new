@@ -56,3 +56,16 @@ textarea:focus {
 input:user-invalid {
   border: 5px solid #26532b;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 30rem;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
